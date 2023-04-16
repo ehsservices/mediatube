@@ -1,0 +1,7 @@
+{
+  "name": "mediatube",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
